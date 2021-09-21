@@ -1,3 +1,4 @@
+namespace: payments
 nameSuffix: -dev
 
 bases:
