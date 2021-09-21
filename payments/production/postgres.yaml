@@ -48,3 +48,5 @@ spec:
           max_worker_processes: 2
           shared_buffers: 512MB
           archive_timeout: 600
+
+

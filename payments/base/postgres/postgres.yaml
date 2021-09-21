@@ -55,3 +55,7 @@ spec:
           shared_buffers: 256MB
           work_mem: 10MB
           archive_timeout: 600
+
+
+
+# tag for upgrade centos8-13.4-4.7.2
