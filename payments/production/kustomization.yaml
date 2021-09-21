@@ -1,4 +1,4 @@
-namespace: payments
+namespace: payments-prod
 nameSuffix: -prod
 
 generatorOptions:
