@@ -5,7 +5,7 @@ generatorOptions:
   disableNameSuffixHash: true
 
 bases:
-  - ../../base/postgres
+  - ../base/postgres
 
 patchesStrategicMerge:
   - postgres.yaml

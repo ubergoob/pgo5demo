@@ -2,7 +2,7 @@ namespace: payments
 nameSuffix: -dev
 
 bases:
-  - ../../base/postgres
+  - ../base/postgres
 
 patchesStrategicMerge:
   - postgres.yaml
